@@ -1,8 +1,8 @@
 ## Repository Strucure
 ```
 ├── accessibility
-    <a href="https://medium.com/@fenneccharles/top-tools-to-make-coding-more-accessible-for-the-disabled-programmer-18c86f175b0">Top tools to make coding more accessible (for the disabled programmer)
-</a>
+   https://medium.com/@fenneccharles/top-tools-to-make-coding-more-accessible-for-the-disabled-programmer-18c86f175b0
+   Top tools to make coding more accessible (for the disabled programmer)
     ├── frogpad.png
     ├── half.jpg
     ├── kcl.jpg
@@ -13,12 +13,14 @@
     ├── tipy.png
     ├── twiddler3.png
 ├── gitignore
-    <a href="https://medium.com/@fenneccharles/creating-using-gitignore-126b2fefbc61">Creating & using .gitignore</a>
+    https://medium.com/@fenneccharles/creating-using-gitignore-126b2fefbc61
+    Creating & using .gitignore
     ├── gb.png
     ├── gh.png
     ├── wp.png
 ├── inputs
-    <a href="https://medium.com/@fenneccharles/building-a-simple-form-with-python-input-35c58cad6b7a">Building a simple form with Python input().</a>
+    https://medium.com/@fenneccharles/building-a-simple-form-with-python-input-35c58cad6b7a
+    Building a simple form with Python input()
     ├── User Input.ipynb
     ├── actions.png
     ├── ans.png
@@ -29,7 +31,8 @@
     ├── ques.png
     ├── wow.png
 ├── matplotlib labelling
-    <a href="https://medium.com/@fenneccharles/labeling-matplotlib-visuals-1b616e8937db">Labeling Matplotlib visuals</a>
+    https://medium.com/@fenneccharles/labeling-matplotlib-visuals-1b616e8937db
+    Labeling Matplotlib visuals
     ├── base_plot.png
     ├── data_labels_plot.png
     ├── done_wasabi.png
@@ -41,7 +44,8 @@
     ├── titled_plot.png
     ├── wasabi.jpeg
 ├── stars
-    <a href="https://medium.com/@fenneccharles/plotting-stars-from-astronomical-coordinates-using-mw-plot-6011b5f5f3d0">Plotting stars from astronomical coordinates using MW plot</a>
+    https://medium.com/@fenneccharles/plotting-stars-from-astronomical-coordinates-using-mw-plot-6011b5f5f3d0
+    Plotting stars from astronomical coordinates using MW plot
     ├── coord.png
     ├── heynowyoureanallstars.png
     ├── plot1.png
@@ -51,7 +55,8 @@
     ├── stars.head.png
     ├── zoomed.png
 ├── starting repo
-    <a href="https://medium.com/@fenneccharles/starting-a-new-remote-repository-with-git-bash-in-10-simple-steps-bad17fda6ec3">Starting a new remote repository with Git Bash, in 10 simple steps.</a>
+    https://medium.com/@fenneccharles/starting-a-new-remote-repository-with-git-bash-in-10-simple-steps-bad17fda6ec3
+    Starting a new remote repository with Git Bash, in 10 simple steps
     ├── add orig.png
     ├── add.png
     ├── clean tree.png
