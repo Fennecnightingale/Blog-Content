@@ -72,6 +72,14 @@
     ├── open gh.png
     ├── push.png
     ├── update.png
+├── starting repo
+    https://medium.com/@fenneccharles/tips-for-getting-ready-for-a-presentation-7af6ca557b2b
+    Tips for getting ready for a presentation
+    ├── chill.jpg
+    ├── presenting.jpg
+    ├── rehearse.jpg
+    ├── script.jpg
+    ├── thinking.jpg
+    ├── vlog.jpg
 ├── .gitignore
 ├── README.md
-├── Untitled.ipynb
